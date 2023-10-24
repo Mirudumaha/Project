@@ -1,0 +1,11 @@
+<suite name = "Suite">
+<test name = "Test">
+<classes>
+<class name="org.junits.emp"></class>
+<class name="org.pages.BookHotel"></class>
+<class name="org.pages.LoginPage"></class>
+<class name="org.pages.SearchHotel"></class>
+<class name="org.pages.SelectHotel"></class>
+</classes>
+</test>
+</suite>
